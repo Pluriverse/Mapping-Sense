@@ -237,7 +237,7 @@ p {
     display: absolute;
     height: 300px;
     width: auto;
-    top: 150px;
+    top: 50px;
     left: 300px;
 }
 
@@ -285,7 +285,7 @@ background-color: rgb(144,156,171);
 .senselink {
     text-align: right;
     position: relative;
-    padding-top: 600px;
+    padding-top: 400px;
     text-align: right;
     bottom: 30px;
     color: black;
